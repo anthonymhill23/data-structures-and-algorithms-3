@@ -79,3 +79,12 @@ From the root of the `data-structures-and-algorithms/python` folder, execute the
 ### Code Challenge 1- Reverse Array
 
 [Code Challenges Read ME](../python/code_challenges/README.md)
+
+
+
+
+
+
+### Code Challenge 03 
+
+[Code Challenge 03 Read me](../python/docs/array-binary-search/README.md)
