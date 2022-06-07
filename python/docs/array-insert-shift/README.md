@@ -5,7 +5,7 @@ Take a list of any size and a value and add the value to the middle of the list 
 ## Whiteboard Process -> 
 
 
-![Code-Challenge](./Code%20Challenge-2.jpg)
+![Code-Challenge 06](./Code%20Challenge-2.jpg)
 
 ## Approach & Efficiency
 
