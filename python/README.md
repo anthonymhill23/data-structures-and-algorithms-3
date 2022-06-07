@@ -88,3 +88,11 @@ From the root of the `data-structures-and-algorithms/python` folder, execute the
 ### Code Challenge 03 
 
 [Code Challenge 03 Read me](../python/docs/array-binary-search/README.md)
+
+
+
+
+
+### Code Challenge 06
+
+[Code Challenge 06 Read Me](../python/docs/linked_list_insertions/README.md)
