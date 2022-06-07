@@ -1,6 +1,9 @@
 class LinkedList:
     """
-    This module will allow me to create a Linked List by  creating notes and adding them to the beginning of the Linked lists, also while settling their value. The list will only flow one way ( A good analogy would be (as far as I understand it) water trickling down hill. That only flows one way. )
+    This module will allow me to create a Linked List by  creating notes and adding them to the beginning of the Linked lists, also while settling their value. The list will only flow one way ( A good analogy would be (as far as I understand it) water trickling down hill. That only flows one way.
+    
+    
+     )
     """
 
     def __init__(self):
