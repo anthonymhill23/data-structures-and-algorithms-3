@@ -96,3 +96,7 @@ From the root of the `data-structures-and-algorithms/python` folder, execute the
 ### Code Challenge 06
 
 [Code Challenge 06 Read Me](../python/docs/linked_list_insertions/README.md)
+
+
+### Code Challenge 07
+[Code Challenge 07 Read Me](../python/docs/linked_list_kth/README.md)
