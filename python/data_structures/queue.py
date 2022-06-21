@@ -1,5 +1,6 @@
 from data_structures.stack import Node
 from data_structures.invalid_operation_error import InvalidOperationError
+from data_structures.stack import Stack
 
 
 class Queue:
@@ -32,4 +33,17 @@ class Queue:
 
     def is_empty(self):
         return self.front is None
+
+    class PseudoQueue:
+        def __init__(self):
+            self.first = Stack()
+            self.second = Stack()
+
+        def enqueue(self, value):
+            self.first.push(value)
+            self.second.push(value)
+
+        def dequeue(self):
+            self.first.pop()
+            self.second.pop()
 
