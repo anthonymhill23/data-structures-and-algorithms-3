@@ -104,3 +104,6 @@ From the root of the `data-structures-and-algorithms/python` folder, execute the
 
 ### Code Challenge 11
 [Code Challenge 11 Read ME](../python/docs/stack_queue_pseudo/README.md)
+
+### Code Challenge 12
+[Code Challenge 12 ReadME](../python/docs/stack_queue_animal_shelter/README.md)
