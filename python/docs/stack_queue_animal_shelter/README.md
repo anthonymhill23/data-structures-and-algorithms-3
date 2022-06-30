@@ -15,3 +15,8 @@ dogs. If it is not either one of these, it will return null or nothing.
 [Whiteboard](../stack_queue_animal_shelter/animalshelterwhiteboard.jpg)
 
 ### Approach and Efficiency
+
+
+This, for me was difficult and not at the same time. It was a way to expound about what we did last week. but also was an interesting challenge.
+
+This code is not executable at this time.
