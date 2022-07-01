@@ -107,3 +107,6 @@ From the root of the `data-structures-and-algorithms/python` folder, execute the
 
 ### Code Challenge 12
 [Code Challenge 12 ReadME](../python/docs/stack_queue_animal_shelter/README.md)
+
+### Code Challenge 13
+[Code Challenge 13 README](../python/docs/stack_queue_brackets/README.md)
