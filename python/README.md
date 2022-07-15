@@ -110,3 +110,8 @@ From the root of the `data-structures-and-algorithms/python` folder, execute the
 
 ### Code Challenge 13
 [Code Challenge 13 README](../python/docs/stack_queue_brackets/README.md)
+
+
+
+### Code Challenge 17
+[Code Challenge 17 Read Me](../python/docs/tree_breadth_first/README.md)
