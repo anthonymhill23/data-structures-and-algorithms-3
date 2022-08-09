@@ -57,6 +57,6 @@ Space 0(N)
 That is a simple overview of the concept of insertion sorting.
 If this helps, please let me know.
 
-
+Sincerely, Anthony Hill
 
 
