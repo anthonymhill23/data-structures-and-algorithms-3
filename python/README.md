@@ -85,7 +85,7 @@ From the root of the `data-structures-and-algorithms/python` folder, execute the
 
 
 
-### Code Challenge 03 
+### Code Challenge 03
 
 [Code Challenge 03 Read me](../python/docs/array-binary-search/README.md)
 
@@ -96,3 +96,22 @@ From the root of the `data-structures-and-algorithms/python` folder, execute the
 ### Code Challenge 06
 
 [Code Challenge 06 Read Me](../python/docs/linked_list_insertions/README.md)
+
+
+
+### Code Challenge 10
+[Code Challenge 10 Read Me](../python/docs/stack_and_queue/README.md)
+
+### Code Challenge 11
+[Code Challenge 11 Read ME](../python/docs/stack_queue_pseudo/README.md)
+
+### Code Challenge 12
+[Code Challenge 12 ReadME](../python/docs/stack_queue_animal_shelter/README.md)
+
+### Code Challenge 13
+[Code Challenge 13 README](../python/docs/stack_queue_brackets/README.md)
+
+
+
+### Code Challenge 17
+[Code Challenge 17 Read Me](../python/docs/tree_breadth_first/README.md)
