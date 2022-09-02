@@ -115,3 +115,13 @@ From the root of the `data-structures-and-algorithms/python` folder, execute the
 
 ### Code Challenge 17
 [Code Challenge 17 Read Me](../python/docs/tree_breadth_first/README.md)
+
+
+
+
+### Code Challenge 26
+[Code Challenge 26 Read ME](../sorting/insertion/README.md)
+
+
+### Code Challenge 32
+[Code Challenge 32 READ ME](../python/docs/tree_intersection/README.md)
